@@ -1,0 +1,36 @@
+body{
+    background-color: #e6cfa3cc;
+}
+h1{
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
+}
+dt{
+    font-size: 20px;
+}
+dd{
+    font-size: 15px;
+}
+h1{
+    color: #3A4E48;
+}
+h2{
+    color: #6A7B76;
+}
+ol{
+    font-size: 25px;
+}
+dt{
+    font-size: 20px;
+}
+dd{
+    font-size: 17px;
+}
+aabr{
+    color: #3A4E48;
+}
+p abbr{
+    color: #3A4E48;
+}

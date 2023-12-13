@@ -1,0 +1,65 @@
+
+
+
+body{
+    background-color:#e6cfa3cc;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+img{
+    width: 500px;
+    
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    text-decoration: underline;
+}
+
+a::before{
+    content: '➡︎';
+}
+a::after{
+    content: '⬅︎';
+}
+h1{
+    color: #070707;
+}
+
+h1#principal{
+    text-align: justify;
+    color: rgb(117, 117, 221);
+    box-shadow: 4px 4px 9px 0px black;
+}
+.campeoes{
+    color: rgb(117, 117, 221);
+}
+p{
+    font-size: 18px;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+ul{
+    text-align: justify;
+    color: red;  
+}
+li{
+    color: #6A7B76;
+    margin: 5px;
+    padding: 2px;
+}
+p{
+    color: #6A7B76;
+}
+.rotas{
+    color: black;
+    margin: 10px;
+}
